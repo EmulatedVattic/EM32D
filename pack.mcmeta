@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 34,
+    "pack_format": 46,
     "description": "Vattic's Classic Faithful Today §8By Evorp and many others",
     "supported_formats": {
-      "min_inclusive": 33,
-      "max_inclusive": 34
+      "min_inclusive": 46,
+      "max_inclusive": 46
     }
   }
 }
